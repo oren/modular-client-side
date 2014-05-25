@@ -2,7 +2,7 @@
 
 Modular approach for building client-side Javascript application
 
-**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+**Table of Contents**
 
 - [Make Ajax calls](#user-content-make-ajax-calls)
 - [Routing](#user-content-routing)
