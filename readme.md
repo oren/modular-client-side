@@ -1,5 +1,3 @@
-# Modular Client Side
-
 Modular approach for building client-side Javascript application
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
