@@ -15,8 +15,9 @@ Modular approach for building client-side Javascript application
 
 ## Routing
 
-* https://github.com/Raynos/hash-router
-* https://github.com/visionmedia/page.js
+* html5 - https://github.com/Raynos/html5-router
+* html5 - https://github.com/visionmedia/page.js
+* hashbang - https://github.com/Raynos/hash-router
 
 ## Templates
 
