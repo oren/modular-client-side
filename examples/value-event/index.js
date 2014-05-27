@@ -1,5 +1,4 @@
 var changeEvent = require('value-event/change')
-console.log('c', changeEvent);
 
 var listener = function (data) {
   console.log('data', data.changed, data.foo)
