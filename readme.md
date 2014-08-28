@@ -6,6 +6,7 @@ Modular approach for building client-side Javascript application
 
 - [Make Ajax calls](#user-content-make-ajax-calls)
 - [Routing](#user-content-routing)
+- [CSS](#css)
 - [Templates](#user-content-templates)
 
 ## Make Ajax calls
@@ -20,7 +21,8 @@ Modular approach for building client-side Javascript application
 * hashbang - https://github.com/Raynos/hash-router
 * tiny library - https://github.com/azer/route-map
 
-## Components
-* CSS - https://github.com/chenglou/RCSS
+## CSS
+* insert-css - https://github.com/substack/insert-css
+* rcss - https://github.com/chenglou/RCSS
 
 ## Templates
