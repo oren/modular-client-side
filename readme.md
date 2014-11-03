@@ -26,3 +26,4 @@ Modular approach for building client-side Javascript application
 * rcss - https://github.com/chenglou/RCSS
 
 ## Templates
+* microtemplate - https://github.com/paulmillr/microtemplates
