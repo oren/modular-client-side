@@ -10,12 +10,10 @@ Modular approach for building client-side Javascript application
 - [Templates](#user-content-templates)
 
 ## Make Ajax calls
-
 * https://github.com/Raynos/xhr
 * https://www.npmjs.org/package/nets
 
 ## Routing
-
 * html5 - https://github.com/Raynos/html5-router
 * html5 - https://github.com/visionmedia/page.js
 * hashbang - https://github.com/Raynos/hash-router
@@ -27,3 +25,6 @@ Modular approach for building client-side Javascript application
 
 ## Templates
 * microtemplate - https://github.com/paulmillr/microtemplates
+
+## Mobile
+* prevent 300ms click delay - https://github.com/pazguille/clicktap
